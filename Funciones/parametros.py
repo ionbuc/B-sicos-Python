@@ -11,3 +11,5 @@ def dibujo(width, height):
       print("*" + " " * (width - 2) + "*") 
    # Dibuja la parte inferior 
    print("*" * width)
+
+dibujo (11,11)
